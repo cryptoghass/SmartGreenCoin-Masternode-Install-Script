@@ -1,1 +1,1 @@
-# SmartGreenCoin_install.sh
+# SmartGreenCoin Masternode Install Script
