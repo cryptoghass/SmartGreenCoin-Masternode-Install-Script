@@ -1,0 +1,1 @@
+# SmartGreenCoin_install.sh
